@@ -1,0 +1,15 @@
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/Feb18
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/Feb18.deps.json
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/Feb18.runtimeconfig.json
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/Feb18.dll
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/ref/Feb18.dll
+/Library/Files/code/practice/Feb18/bin/Debug/net6.0/Feb18.pdb
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.csproj.AssemblyReference.cache
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.GeneratedMSBuildEditorConfig.editorconfig
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.AssemblyInfoInputs.cache
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.AssemblyInfo.cs
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.csproj.CoreCompileInputs.cache
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.dll
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/ref/Feb18.dll
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.pdb
+/Library/Files/code/practice/Feb18/obj/Debug/net6.0/Feb18.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+class Bike
+{
+    public static int BikeCounter;
+
+    private string _name;
+    private int _age;
+
+    public Bike(string name, int age)
+    {
+        _name = name;
+        _age = age;
+
+        BikeCounter++; 
+    }
+}
+
+class ClassWithMain
+{
+    public static void Main()
+    {
+        Bike.BikeCounter = 0; 
+
+        var Trek = new Bike("Trek", 3);
+        var Kiwi = new Bike("Kiwi", 5);
+
+        Console.WriteLine(Bike.BikeCounter);
+    }
+}
